@@ -1,8 +1,7 @@
-# Snooker pjct 🎱
+# Snooker pjct 
 
-Projeto desenvolvido como parte de aprendizagem do curso Codecademy.  
-Esta página apresenta uma breve homenagem ao mundo do snooker, com 
-destaque para torneios, troféus e ícones da modalidade.
+Este projeto foi desenvolvido como parte de aprendizagem do curso Full-Stack Engineer, na Codecademy.  
+Esta página apresenta uma breve homenagem ao mundo do snooker, com destaque para torneios, troféus e ícones da modalidade.
 
 ## 📂 Estrutura do projeto
 
@@ -12,7 +11,7 @@ destaque para torneios, troféus e ícones da modalidade.
 
 ## 🖥️ Como visualizar
 
-1.🔗 (https://mhg23pt.github.io/mahg.workolic/)
+1. 🔗 (https://mhg23pt.github.io/mahg.workolic/)
 
 2. Faz download do projeto ou clona com Git.
 
@@ -25,7 +24,8 @@ destaque para torneios, troféus e ícones da modalidade.
 
 ## 👤 Autor
 
-M.A.H.G ([@mhg23pt](https://github.com/mhg23pt))
+M.A.H.G 
+([@mhg23pt](https://github.com/mhg23pt))
 
 ---
 
