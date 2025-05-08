@@ -1,0 +1,114 @@
+:root {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgba(255, 255, 255, 0.847);
+    text-align: center;
+    line-height: 1.3;
+    padding: 0 85px 0 85px;
+}
+.main {
+    background-image: url(img/Image_4_05_2025.png);
+    background-size: cover;
+}
+/* Title */
+h1 {
+    font-size: 120px;
+    text-shadow: 4px 4px 8px;
+    position: relative;
+    bottom: 30px;
+}
+.of {
+    font-size: 80px;
+    font-style: italic;
+    position: relative;
+    right: 20px;
+}
+/* Article 1 */
+.trophy h2{
+    color: rgb(210, 186, 30);
+    font-size: 60px;
+    position: relative;
+    bottom: 30px;
+}
+.trophy p {
+    font-size: 30px;
+    padding: 0 40px;
+}
+#champs {
+    color: rgb(210, 186, 30);
+    font-size: 40px;
+    position: relative;
+    top: 5px;
+}
+.trophy a {
+    color: rgb(210, 186, 30);
+    text-decoration: none;
+}
+.trophy a:hover {
+    text-decoration: underline;
+}
+.list {
+    font-size: 20px;
+    list-style: none;
+}
+/* Article 2 */
+.crown h2 {
+    color: rgb(210, 186, 30);
+    font-size: 60px;
+}
+.crown p {
+    font-size: 30px;
+    padding: 0 40px;
+}
+.crown a {
+    color: rgb(210, 186, 30);
+    text-decoration: none;
+}
+.crown a:hover {
+    text-decoration: underline;
+}
+.list2 {
+    font-size: 20px;
+    padding: 0 170px 0 170px;
+}
+.list2 a {
+    color: rgb(210, 186, 30);
+    text-decoration: none;
+}
+.list2 a:hover {
+    text-decoration: underline;
+} 
+/* Table */
+#top8 {
+    color: rgb(210, 186, 30);
+    font-size: 30px;
+    position: relative;
+    left: 30px;
+}
+table {
+    width: 80%;
+    border-collapse: collapse;  /* junta as bordas */
+    margin: 0px 0px 100px 0px;
+    position: relative;
+    left: 100px;
+}
+th, td {
+    border: 1px solid #ffffffcb;
+    padding: 8px;
+    text-align: center;
+} 
+thead th {
+    font-weight: bold;
+}
+thead tr:first-child th:nth-of-type(1) {
+    border: none;
+}
+thead tr:first-child th:nth-of-type(1) {
+    border-top: none;
+}
+/* Footer */
+.footer {
+    text-align: center;
+    padding: 10px;
+    font-size: 13px;
+    border-top: 1px solid #ddd;
+}
